@@ -16,3 +16,6 @@
 
 # Go.sum files, course requirement
 *.sum
+
+# Stuff like cache
+*.gob
